@@ -1,0 +1,12 @@
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Ayse\source\repos\ServicesAPI6\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache

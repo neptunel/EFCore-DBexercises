@@ -1,0 +1,22 @@
+USE [CustomerDB]
+GO
+
+/****** Object:  Table [dbo].[Adress]    Script Date: 8.01.2022 13:53:00 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Adress](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[City] [nvarchar](50) NULL,
+	[Number] [nvarchar](10) NULL,
+ CONSTRAINT [PK_Adress] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
